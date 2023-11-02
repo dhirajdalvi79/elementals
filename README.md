@@ -1,16 +1,12 @@
-# elementals
+## elementals
 
-A new Flutter project....
+Hello, I have made a basic flutter app for chemical elements information.
 
-## Getting Started
+Features:
+- Main screen with periodic table
+- Secondary screen with list of elements
+- Elements details screen displaying properties and atomic model of each elements.
+- Number of moles calculator
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Following is screen recording of the app:
