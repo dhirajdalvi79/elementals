@@ -1,4 +1,4 @@
-## elementals
+## Elementals
 
 Hello, I have made a basic flutter app for chemical elements information.
 
